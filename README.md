@@ -1,5 +1,13 @@
 # SoundProofingBox_RZ420
 RZ420用の防音箱。assy-SoundProofingBox_RZ420.SLDASMが最上位アセンブリです。部品リストもあります。わわわ
+## License
+
+MIT License
+
+Copyright (c) 2025 隆太郎 益田
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+
 ## 設計外観
 ![image](https://github.com/user-attachments/assets/e777822c-1e62-4c5e-b7cc-779c84fe54cc)
 ## 加工時の注意
@@ -21,11 +29,4 @@ RZ420用の防音箱。assy-SoundProofingBox_RZ420.SLDASMが最上位アセン�
 https://www.neji-concier.com/column/what-kind-of-onime-nut.html
 ## 謝辞
 RZ420本体の方のCADを作ったのは12期の木野本さんです。大変助かりました。ありがとう。
-## License
-
-MIT License
-
-Copyright (c) 2025 隆太郎 益田
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
 
