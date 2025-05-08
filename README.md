@@ -21,3 +21,11 @@ RZ420用の防音箱。assy-SoundProofingBox_RZ420.SLDASMが最上位アセン�
 https://www.neji-concier.com/column/what-kind-of-onime-nut.html
 ## 謝辞
 RZ420本体の方のCADを作ったのは12期の木野本さんです。大変助かりました。ありがとう。
+## License
+
+MIT License
+
+Copyright (c) 2025 隆太郎 益田
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
+
